@@ -25,7 +25,7 @@
       </configuration>
     </facet>
     <facet type="kotlin-language" name="Kotlin">
-      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" pureKotlinSourceFolders="C:\Users\User\Desktop\android-kotlin-fundamentals-starter-apps-master\GuessTheWord-Starter\app\src\debug\kotlin;C:\Users\User\Desktop\android-kotlin-fundamentals-starter-apps-master\GuessTheWord-Starter\app\src\debug\java;C:\Users\User\Desktop\android-kotlin-fundamentals-starter-apps-master\GuessTheWord-Starter\app\src\release\kotlin;C:\Users\User\Desktop\android-kotlin-fundamentals-starter-apps-master\GuessTheWord-Starter\app\src\release\java;C:\Users\User\Desktop\android-kotlin-fundamentals-starter-apps-master\GuessTheWord-Starter\app\src\debugAndroidTest\kotlin;C:\Users\User\Desktop\android-kotlin-fundamentals-starter-apps-master\GuessTheWord-Starter\app\src\debugUnitTest\kotlin;C:\Users\User\Desktop\android-kotlin-fundamentals-starter-apps-master\GuessTheWord-Starter\app\src\releaseUnitTest\kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
         <compilerSettings />
         <compilerArguments>
           <option name="destination" value="$MODULE_DIR$/build/tmp/kotlin-classes/debug" />
